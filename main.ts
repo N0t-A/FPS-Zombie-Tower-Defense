@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import { PointerLockControls } from 'three/examples/jsm/controls/PointerLockControls.js';
-import { GameUI, ResourceUI } from './UI';
+import { GameUI, ResourceUI } from './ui';
 
 const gameUI = new GameUI();
 
